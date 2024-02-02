@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "333359818394",
+    "project_id": "bootcamp-bsi1",
+    "storage_bucket": "bootcamp-bsi1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333359818394:android:d4dc4712b07363a316e123",
+        "android_client_info": {
+          "package_name": "com.example.chat_apps_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333359818394-75guma9sg3mkoasodltuaf476h1vbgk0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.example.chat_apps_1",
+            "certificate_hash": "c8560ccc0ca339f974f6cb318ea8065e71e8d102"
+          }
+        },
+        {
+          "client_id": "333359818394-8nagahsc41q9kn49dcfqobhu35kt9fjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuWmy7-PNQARl5p_dCOwx2V5QISyU5DD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333359818394-8nagahsc41q9kn49dcfqobhu35kt9fjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
